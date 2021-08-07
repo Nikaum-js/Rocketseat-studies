@@ -52,7 +52,9 @@ videos.map(video => {
   sectionCards.appendChild(cardClone);
 });
 
+
 card.remove();
+
 
 // Modal actions
 const modalOverlay = document.querySelector(".modal-overlay");
